@@ -209,6 +209,12 @@
     "name": "Gcore DNS",
     "package_name": "certbot-dns-gcore"
   },
+  "gigahost": {
+    "credentials": "dns_gigahost_api_token = flux_live_0123456789abcdef01234567",
+    "full_plugin_name": "dns-gigahost",
+    "name": "Gigahost",
+    "package_name": "certbot-dns-gigahost"
+  },
   "glesys": {
     "credentials": "dns_glesys_user = CL00000\ndns_glesys_password = apikeyvalue",
     "full_plugin_name": "dns-glesys",
